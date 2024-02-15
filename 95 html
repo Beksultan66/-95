@@ -1,0 +1,58 @@
+<html>
+      <head>
+        <title></title>
+        <link rel="stylesheet" href="christian.css"/>
+      </head>
+      <body>
+     <header>
+
+         <h1 class="logo-text">Школа 95</h1>
+     </header>
+     <main>
+       <h2>Учителя<h2>
+  <div class="center-imeges">
+    <table>
+      <tr>
+        <td>Биялогия</td>
+        <td>Жапарова Назгуль Болотбековна</td>
+      </tr>
+      <tr>
+        <td>Киргиз тил</td>
+        <td>Жуманалиева Чолпон Алтымышевна</td>
+        <td>Мамбетсултанова Нуржамал Мухтарбековна</td>
+        <td>Каныбекова Бегимай Каныбековна</td>
+        <td></td>
+
+      </tr>
+      <tr>
+        <td>Китайский</td>
+        <td>Мирбекова Динара Мирбековна</td>
+        <td>Рахимова Элиза Кубанычбековна</td>
+      </tr>
+      <tr>
+        <td>Англиский</td>
+        <td>Абсаматова Батма Идирисовна</td>
+        <td>Камбарова Бактыгул Уметовна</td>
+      </tr>
+       <tr>
+          <td>Физика</td>
+          <td>Китаева Айжан Эркинбековна</td>
+         <td>История</td>
+           <td>Нурдинова Гулнур Асангазиевна</td>
+         </tr>
+    </table>
+  </div></p>
+
+<iframe width="789" height="447" src="https://www.youtube.com/embed/FdgQiNUCrqI" title="No 95 школа в Бишкекe Киргизии. Китайский помощь.очень хорошо" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         
+
+   
+  
+
+  
+     </main>
+     </main>
+
+     </footer>
+   </body>
+</html>
